@@ -1,11 +1,18 @@
 # yban303.github.io
 
-public class BootSpirngBootApplication{
+<pre>
 
-  public static void main(String[] args){
+<code>
   
-    System.out.println("Hello World");
+  public class BootSpirngBootApplication{
+
+    public static void main(String[] args){
+  
+      System.out.println("Hello World");
+  
+    }
   
   }
-  
-}
+</code>
+
+</pre>
